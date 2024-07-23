@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://merchorn.github.io/sitemap
+Sitemap: https://merchorn.github.io/app/sitemap
+Sitemap: https://merchorn.github.io/assets/sitemap
+Sitemap: https://merchorn.github.io/css/sitemap
+Sitemap: https://merchorn.github.io/includes/sitemap
+Sitemap: https://merchorn.github.io/item/sitemap
+Sitemap: https://merchorn.github.io/src/sitemap
